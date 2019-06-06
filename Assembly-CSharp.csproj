@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scenes\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scenes\Scripts\LoseCollider.cs" />
     <Compile Include="Assets\Scenes\Scripts\Paddle.cs" />
+    <Compile Include="Assets\StartGame.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Karkówka/Documents/Arkanoid/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
